@@ -11,4 +11,4 @@
 </ul>
 
 <p>Check it out: <b>https://nowalijka01.github.io/WeatherProjectUpdated/</b></p>
-<p>*** This is the updated version of a group project originally published<a href="https://michalwili.github.io/WeatherProject/">here</a>***</b></p>
+<p>*** This is the updated version of a group project originally published <a href="https://michalwili.github.io/WeatherProject/">here</a>***</b></p>
